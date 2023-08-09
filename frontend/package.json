@@ -24,11 +24,10 @@
     "react-scrollable-feed": "^1.3.2",
     "socket.io-client": "^4.7.2",
     "web-vitals": "^2.1.4"
-    
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
-    "build": "react-script --openssl-legacy-providers build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -51,9 +50,15 @@
     ]
   },
   "devDependencies": {
+    "@babel/core": "^7.22.10",
+    "@babel/eslint-parser": "^7.22.10",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@babel/preset-env": "^7.22.10",
     "@types/react": "^18.2.18",
     "@types/react-dom": "^18.2.7",
     "@types/react-router-dom": "^5.3.3"
-  }
+  },
+  "plugins": [
+    "@babel/plugin-transform-private-property-in-object"
+  ]
 }
