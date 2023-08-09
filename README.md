@@ -40,27 +40,27 @@ Start the server
 Start the Client
 
 ```bash
-  //open now terminal
+  //open a new terminal
   cd frontend
   npm start
 ```
 
 # Features
 
-### Authenticaton
+### Authentication
 
-![](https://github.com/shiv1323/MERN-Chat-app/blob/gh-pages/Screenshot/loginPage.png)
-![](https://github.com/shiv1323/MERN-Chat-app/blob/gh-pages/Screenshot/Signup.png)
+![](https://github.com/shiv1323/MERN_CHAT_APP/blob/gh-pages/Screenshot/loginPage.png)
+![](https://github.com/shiv1323/MERN_CHAT_APP/blob/gh-pages/Screenshot/Signup.png)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/shiv1323/MERN-Chat-app/blob/gh-pages/Screenshot/Real-time.png)
+![](https://github.com/shiv1323/MERN_CHAT_APP/blob/gh-pages/Screenshot/Real-time.png)
 ### One to One chat
-![](https://github.com/shiv1323/MERN-Chat-app/blob/gh-pages/Screenshot/ChatBox.png)
+![](https://github.com/shiv1323/MERN_CHAT_APP/blob/gh-pages/Screenshot/ChatBox.png)
 ### Search Users
-![](https://github.com/shiv1323/MERN-Chat-app/blob/gh-pages/Screenshot/Search.png)
+![](https://github.com/shiv1323/MERN_CHAT_APP/blob/gh-pages/Screenshot/Search.png)
 ### Create Group Chats
-![](https://github.com/shiv1323/MERN-Chat-app/blob/gh-pages/Screenshot/GroupChatModel.png)
-### View Other user Profile
-![](https://github.com/shiv1323/MERN-Chat-app/blob/gh-pages/Screenshot/ChatUserprofile.png)
+![](https://github.com/shiv1323/MERN_CHAT_APP/blob/gh-pages/Screenshot/GroupChatModel.png)
+### View Other User Profile
+![](https://github.com/shiv1323/MERN_CHAT_APP/blob/gh-pages/Screenshot/ChatUserprofile.png)
 ## Made By
 
 - [@Shivansh Verma](https://github.com/shiv1323/)
