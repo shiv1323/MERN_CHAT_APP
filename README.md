@@ -6,7 +6,7 @@ Chat-app is a Full Stack Chatting App. Uses Socket.io for real-time communicatio
 
 **Server:** Node JS, Express JS
 
-**Database:** Mongo DDB
+**Database:** MongoDB
 
 ## Run Locally
 Clone the project
