@@ -1,5 +1,5 @@
 import { Box, Stack, Text } from "@chakra-ui/layout";
-import { useToast } from "@chakra-ui/toast";
+import { useToast } from "@chakra-ui/react";
 import { MenuList, MenuItem, MenuButton, Menu } from "@chakra-ui/menu";
 import { BellIcon } from "@chakra-ui/icons";
 import axios from "axios";

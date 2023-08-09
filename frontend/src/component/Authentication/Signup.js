@@ -3,7 +3,7 @@ import "../Authentication/CSS File/Login.css";
 import { Button, InputGroup, InputRightElement } from "@chakra-ui/react";
 import { ViewIcon, ViewOffIcon } from "@chakra-ui/icons";
 
-import { useToast } from "@chakra-ui/toast";
+import { useToast } from "@chakra-ui/react";
 import axios from "axios";
 import { useHistory } from "react-router-dom";
 

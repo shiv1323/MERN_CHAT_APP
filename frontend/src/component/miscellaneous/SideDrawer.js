@@ -12,7 +12,7 @@ import {
 } from "@chakra-ui/modal";
 import { useState } from "react";
 import axios from "axios";
-import { useToast } from "@chakra-ui/toast";
+import { useToast } from "@chakra-ui/react";
 import ChatLoading from "../ChatLoading";
 import { Spinner } from "@chakra-ui/spinner";
 import UserListItem from "../userAvatar/UserListItem";
