@@ -1,0 +1,18 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+}
+
+.drawer__style{
+    background: #131419 !important;
+    color: #fff !important;
+    position: absolute !important;
+    height: 67.55% !important;
+    left: 5.56% !important;
+    top: 21.46% !important;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 27.7% !important;
+
+}
